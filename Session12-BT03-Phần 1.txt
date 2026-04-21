@@ -1,0 +1,7 @@
+Session12-BT03-Phần 1
+- Lợi ích của việc đưa các thông số này vào application.properties thay vì để trong code Java là:
+	+ Dễ bảo trì
+	+ Tách cấu hình khỏi code
+	+ Linh hoạt theo môi trường
+	+ Tránh lỗi và tiết kiệm thời gian
+	+ Giúp hệ thống linh hoạt, dễ quản lý và dễ mở rộng hơn so với hard-code
